@@ -18,8 +18,12 @@ body {
   border-bottom: 1px solid #e5e7eb;
 }
 .avatar {
-  width: 96px; height: 96px; border-radius: 16px;
-  background: #e5e7eb; /* drop in a headshot by setting background-image */
+  width: 96px;
+  height: 96px;
+  border-radius: 16px;
+  background-image: url('matias.jpg');
+  background-size: cover;
+  background-position: center;
 }
 h1 { margin: 0 0 .25rem; font-size: 1.8rem; }
 h2 { margin: 2rem 0 .5rem; font-size: 1.25rem; }
