@@ -7,38 +7,58 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header>
-    <h1>Matías Romero</h1>
-    <p>PhD Candidate | Decision, Risk & Operations | Columbia Business School</p>
+  <header class="site-header">
+    <div class="avatar"></div>
+    <div>
+      <h1>Matías Romero</h1>
+      <p>PhD Candidate, Decision, Risk & Operations (DRO)<br>Columbia Business School</p>
+      <p>
+        <a href="mailto:mer2262@columbia.edu">mer2262@columbia.edu</a> ·
+        <a href="Matias_Romero_academic_CV.pdf">CV (PDF)</a> ·
+        <a href="https://arxiv.org/pdf/2502.16862" target="_blank" rel="noopener">arXiv</a> ·
+        <a href="https://github.com/MatiRomero" target="_blank" rel="noopener">GitHub</a>
+      </p>
+    </div>
   </header>
 
-  <nav>
-    <a href="#bio">Bio</a> |
-    <a href="#research">Research</a> |
+  <nav class="toc">
+    <a href="#bio">Bio</a>
+    <a href="#publications">Publications</a>
+    <a href="#wip">Work in Progress</a>
+    <a href="#talks">Selected Talks</a>
+    <a href="#teaching">Teaching</a>
+    <a href="#service">Service</a>
+    <a href="#awards">Honors</a>
+    <a href="#education">Education</a>
     <a href="#contact">Contact</a>
   </nav>
 
-  <section id="bio">
-    <h2>Bio</h2>
-    <p>I am a PhD candidate in the Decision, Risk, and Operations division at Columbia Business School. 
-    My research focuses on algorithmic decision-making in delivery platforms, dynamic matching, and sustainable operations.</p>
-  </section>
+  <main>
+    <section id="bio">
+      <h2>Bio</h2>
+      <p>
+        I am a PhD candidate in the Decision, Risk & Operations division at Columbia Business School.
+        My research spans algorithmic decision-making in delivery platforms, dynamic matching, and
+        sustainable operations.
+      </p>
+    </section>
 
-  <section id="research">
-    <h2>Research</h2>
-    <ul>
-      <li><strong>Potential-Based Greedy Matching:</strong> Transportation Science (R&R), WINE 2025</li>
-      <li><strong>Tight Asymptotics of Extreme Order Statistics:</strong> NeurIPS 2025</li>
-    </ul>
-  </section>
-
-  <section id="contact">
-    <h2>Contact</h2>
-    <p>Email: <a href="mailto:mer2262@columbia.edu">mer2262@columbia.edu</a></p>
-  </section>
-
-  <footer>
-    <p>© 2025 Matías Romero</p>
-  </footer>
-</body>
-</html>
+    <section id="publications">
+      <h2>Publications</h2>
+      <ul class="pubs">
+        <li>
+          <strong>Potential-Based Greedy Matching for Dynamic Delivery Pooling</strong> (with Hongyao Ma and Will Ma).<br>
+          <em>Web and Internet Economics (WINE) 2025</em>. Finalist, INFORMS TSL Data-Driven Research Challenge.
+          Journal version under review. <a href="https://arxiv.org/pdf/2502.16862" target="_blank" rel="noopener">arXiv</a>
+        </li>
+        <li>
+          <strong>Tight Asymptotics of Extreme Order Statistics</strong> (with José Correa and Frederik Mallmann-Trenn).<br>
+          <em>NeurIPS 2025</em>. Journal version under preparation.
+        </li>
+        <li>
+          <strong>A Linear and Scalable Cutting-Plane Algorithm for Electricity Pricing</strong>
+          (with Felipe Verástegui and Matías Villagra).<br>
+          <em>IEEE PES General Meeting (PESGM) 2025</em>. Journal version under preparation.
+        </li>
+        <li>
+          <strong>On the Asymptotic Behavior of the Expectation of the Maximum of IID Random Variables</strong>
