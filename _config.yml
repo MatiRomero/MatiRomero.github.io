@@ -14,16 +14,16 @@ author:
   avatar                 : "matias.jpg"   # put this in /images/ (AcademicPages default)
   name                   : "Matías Romero"
   pronouns               :
-  bio                    : "PhD candidate at Columbia Business School. Research: online algorithms, dynamic matching, delivery platforms, and sustainable operations."
+  bio                    : "Ph.D. Candidate @ Columbia DRO"
   location               : "New York, NY"
   employer               : "Columbia Business School"
-  uri                    : "https://matiromero.github.io"
+  uri                    : ""
   email                  : "mer2262@columbia.edu"
 
   # Academic websites
   academia               :
   arxiv                  :
-  googlescholar          : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar          : "https://scholar.google.com/citations?user=856735oAAAAJ"
   inspire-hep            :
   impactstory            :
   orcid                  :
@@ -53,7 +53,7 @@ author:
   keybase                :
   instagram              :
   lastfm                 :
-  linkedin               :
+  linkedin               : "https://www.linkedin.com/in/mromero27/"
   mastodon               :
   medium                 :
   pinterest              :
