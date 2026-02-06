@@ -1,0 +1,30 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <p>
+      - <strong>{{ title }}</strong>
+      {% if post.coauthors %}
+        <br>with {{ post.coauthors }}
+      {% endif %}
+      {% if post.journal %}
+        <br>{{ post.journal }}
+      {% endif %}
+      {% if post.conference %}
+        <br>{{ post.conference }}
+      {% endif %}
+      {% if post.award %}
+        <br>{{ post.award }}
+      {% endif %}
+      {% if post.paperurl %}
+        <br><a href="{{ post.paperurl }}">Download Paper</a>
+      {% endif %}
+    </p>
+  </article>
+</div>

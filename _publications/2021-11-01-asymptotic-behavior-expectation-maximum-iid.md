@@ -1,13 +1,15 @@
 ---
 title: "On the Asymptotic Behavior of the Expectation of the Maximum of IID Random Variables"
 collection: publications
-category: manuscripts
+category: published
 permalink: /publication/2021-11-01-asymptotic-behavior-expectation-maximum-iid
-excerpt: 'Published in Operations Research Letters, 49:785-786, 2021.'
+excerpt: ''
 date: 2021-11-01
-venue: 'Operations Research Letters'
+venue: ''
+coauthors: 'José Correa'
+journal: 'Operations Research Letters, 49:785-786, 2021'
+conference: ''
+award: ''
 paperurl: ''
-citation: 'Romero, M., & Correa, J. (2021). &quot;On the Asymptotic Behavior of the Expectation of the Maximum of IID Random Variables.&quot; <i>Operations Research Letters</i>, 49, 785-786.'
+citation: ''
 ---
-
-Published in Operations Research Letters, 49:785-786, 2021.

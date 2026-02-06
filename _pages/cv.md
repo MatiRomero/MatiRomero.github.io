@@ -41,11 +41,13 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Research
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% for post in site.publications reversed %}
+    {% if post.category != 'work-in-progress' %}
+      {% include archive-single-research.html %}
+    {% endif %}
+  {% endfor %}
   
 Talks
 ======
