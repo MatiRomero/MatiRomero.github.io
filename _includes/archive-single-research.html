@@ -9,7 +9,7 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <p>
-      - <strong>{{ title }}</strong>
+      - {% if post.paperurl %}<strong><a href="{{ post.paperurl }}">{{ title }}</a></strong>{% else %}<strong>{{ title }}</strong>{% endif %}
       {% if post.coauthors %}
         <br>with {{ post.coauthors }}
       {% endif %}
@@ -21,9 +21,6 @@
       {% endif %}
       {% if post.award %}
         <br>{{ post.award }}
-      {% endif %}
-      {% if post.paperurl %}
-        <br><a href="{{ post.paperurl }}">Download Paper</a>
       {% endif %}
     </p>
   </article>
