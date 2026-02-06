@@ -6,12 +6,10 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% assign paper_url = post.paperurl %}
-
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <p>
-      - {% if paper_url and paper_url != '' and paper_url != nil %}<strong><a href="{{ paper_url }}">{{ title }}</a></strong>{% else %}<strong>{{ title }}</strong>{% endif %}
+      - {% if post.paperurl and post.paperurl != '' %}<strong><a href="{{ post.paperurl }}">{{ title }}</a></strong>{% else %}<strong>{{ title }}</strong>{% endif %}
       {% if post.coauthors %}
         <br>with {{ post.coauthors }}
       {% endif %}
