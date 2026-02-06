@@ -66,32 +66,32 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Potential-Based Greedy Matching for Dynamic Delivery Pooling",
+      "publisher": "Web and Internet Economics (WINE)",
+      "releaseDate": "2025-12-01",
+      "website": "https://arxiv.org/pdf/2502.16862",
+      "summary": "Accepted in Web and Internet Economics (WINE), 2025. Finalist, INFORMS TSL Data-Driven Research Challenge. Journal version under review."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Tight Asymptotics of Extreme Order Statistics",
+      "publisher": "Advances in Neural Information Processing Systems (NeurIPS)",
+      "releaseDate": "2025-12-01",
+      "website": "",
+      "summary": "Accepted in Advances in Neural Information Processing Systems (NeurIPS), 2025. Journal version under preparation."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "A Linear and Scalable Cutting-Plane Algorithm for Electricity Pricing",
+      "publisher": "IEEE Power & Energy Society General Meeting (PESGM)",
+      "releaseDate": "2025-07-01",
+      "website": "",
+      "summary": "Accepted in IEEE Power & Energy Society General Meeting (PESGM), 2025. Journal version under preparation."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "On the Asymptotic Behavior of the Expectation of the Maximum of IID Random Variables",
+      "publisher": "Operations Research Letters",
+      "releaseDate": "2021-11-01",
+      "website": "",
+      "summary": "Published in Operations Research Letters, 49:785-786, 2021."
     }
   ],
   "presentations": [
