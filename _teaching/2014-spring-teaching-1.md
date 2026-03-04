@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching – Columbia Business School"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/columbia-business-school
+venue: "Columbia Business School, Columbia University"
+date: 2025-10-01
+location: "New York, NY, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Teaching Assistant**
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Supply Chain Management (MBA elective), Fall 2025
+- Supply Chain Analytics (MS&E elective), Fall 2025
+- Operations Management (MBA core), Summer 2025
+- Operations Management (EMBA core), Spring 2024, 2025
+- Foundations of Stochastic Modeling (PhD core), Spring 2024
+- Technology Breakthroughs (MBA elective), Spring 2024

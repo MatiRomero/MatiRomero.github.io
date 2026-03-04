@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching – Universidad de Chile & Universidad de O’Higgins"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecturer & Teaching Assistant"
+permalink: /teaching/universidad-de-chile-ohiggins
+venue: "Universidad de Chile; Universidad de O’Higgins"
+date: 2022-06-01
+location: "Santiago, Chile"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Universidad de Chile**
 
-Heading 1
-======
+- Lecturer for Modeling and Optimization (BS core), Spring 2022
+- TA for Algorithmic Game Theory (MS elective), Spring 2022
+- TA for Stochastic Models in Engineering Systems (MS and PhD core), Fall 2021
+- TA for Decision Making Under Uncertainty (BS core), Fall, Spring 2021
+- TA for Probability and Statistics (BS core), Fall 2021
+- TA for Probability for Mathematicians (BS core), Spring 2020
+- TA for Markov Processes (BS core), Fall 2019
+- TA for Multivariate Calculus (BS core), Fall 2018, 2019
 
-Heading 2
-======
+**Universidad de O’Higgins**
 
-Heading 3
-======
+- TA for Game Theory (BS elective), Spring 2021
