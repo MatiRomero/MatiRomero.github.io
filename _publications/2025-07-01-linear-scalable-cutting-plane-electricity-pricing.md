@@ -7,9 +7,9 @@ excerpt: ''
 date: 2025-07-01
 venue: ''
 coauthors: 'Felipe Verástegui and Matías Villagra'
-journal: ''
+journal: 
 conference: 'IEEE Power & Energy Society General Meeting (PESGM), 2025'
-award: ''
+award: 
 paperurl: 'https://arxiv.org/abs/2504.09008'
 citation: ''
 ---

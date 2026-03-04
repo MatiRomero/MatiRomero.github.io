@@ -7,9 +7,9 @@ excerpt: ''
 date: 2025-01-01
 venue: ''
 coauthors: 'Hongyao Ma and Will Ma'
-journal: ''
-conference: ''
-award: ''
+journal: 
+conference: 
+award: 
 paperurl: ''
 citation: ''
 ---

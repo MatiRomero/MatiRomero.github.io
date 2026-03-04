@@ -7,9 +7,9 @@ excerpt: ''
 date: 2025-12-01
 venue: ''
 coauthors: 'José Correa and Frederik Mallmann-Trenn'
-journal: ''
+journal: 
 conference: 'Advances in Neural Information Processing Systems (NeurIPS), 2025'
-award: ''
+award: 
 paperurl: 'https://openreview.net/pdf?id=padrqCRyCP'
 citation: ''
 ---
