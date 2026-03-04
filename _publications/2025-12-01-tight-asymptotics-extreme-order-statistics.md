@@ -10,6 +10,6 @@ coauthors: 'José Correa and Frederik Mallmann-Trenn'
 journal: ''
 conference: 'Advances in Neural Information Processing Systems (NeurIPS), 2025'
 award: ''
-paperurl: ''
+paperurl: 'https://openreview.net/pdf?id=padrqCRyCP'
 citation: ''
 ---

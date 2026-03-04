@@ -10,6 +10,6 @@ coauthors: 'José Correa'
 journal: 'Operations Research Letters, 49:785-786, 2021'
 conference: ''
 award: ''
-paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0167637721001280'
 citation: ''
 ---

@@ -10,6 +10,6 @@ coauthors: 'Felipe Verástegui and Matías Villagra'
 journal: ''
 conference: 'IEEE Power & Energy Society General Meeting (PESGM), 2025'
 award: ''
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2504.09008'
 citation: ''
 ---
