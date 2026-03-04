@@ -1,5 +1,5 @@
 ---
-title: "Teaching – Columbia Business School"
+title: "Columbia Business School"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/columbia-business-school

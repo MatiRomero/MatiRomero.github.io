@@ -1,9 +1,9 @@
 ---
-title: "Teaching – Universidad de Chile & Universidad de O’Higgins"
+title: "Universidad de Chile"
 collection: teaching
 type: "Lecturer & Teaching Assistant"
-permalink: /teaching/universidad-de-chile-ohiggins
-venue: "Universidad de Chile; Universidad de O’Higgins"
+permalink: /teaching/universidad-de-chile
+venue: "Universidad de Chile"
 date: 2022-06-01
 location: "Santiago, Chile"
 ---
@@ -19,6 +19,3 @@ location: "Santiago, Chile"
 - TA for Markov Processes (BS core), Fall 2019
 - TA for Multivariate Calculus (BS core), Fall 2018, 2019
 
-**Universidad de O’Higgins**
-
-- TA for Game Theory (BS elective), Spring 2021
