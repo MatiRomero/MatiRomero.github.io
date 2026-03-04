@@ -12,16 +12,16 @@
   {% endif %}
 
   <ul>
-    {% if post.coauthors %}
+    {% if post.coauthors and post.coauthors != '' %}
       <li>With {{ post.coauthors }}</li>
     {% endif %}
-    {% if post.journal %}
+    {% if post.journal and post.journal != '' %}
       <li>{{ post.journal }}</li>
     {% endif %}
-    {% if post.conference %}
+    {% if post.conference and post.conference != '' %}
       <li>{{ post.conference }}</li>
     {% endif %}
-    {% if post.award %}
+    {% if post.award and post.award != '' %}
       <li><strong>{{ post.award }}</strong></li>
     {% endif %}
   </ul>
