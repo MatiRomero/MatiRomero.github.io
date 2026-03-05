@@ -4,7 +4,7 @@ collection: publications
 category: published
 permalink: /publication/2025-12-01-potential-based-greedy-matching
 excerpt: ''
-date: 2025-12-01
+date: 2026-01-01
 venue: ''
 coauthors: 'Hongyao Ma and Will Ma'
 journal: 'Journal Version Submitted'
