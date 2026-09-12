@@ -10,6 +10,6 @@ coauthors: 'Hongyao Ma and Will Ma'
 journal: 
 conference: 
 award: 
-paperurl: '/files/CRP_Draft.pdf'
+paperurl: 'https://arxiv.org/pdf/2609.08001'
 citation: ''
 ---
